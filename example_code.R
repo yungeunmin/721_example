@@ -13,3 +13,4 @@ z < (limit - total_mean) / total_sd
 # Probability total exceeds limit
 prob_exceed <- 1 - pnorm(z)
 prob_exceed
+sdgffd
